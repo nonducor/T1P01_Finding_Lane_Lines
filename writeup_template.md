@@ -13,10 +13,6 @@ The goals / steps of this project are the following:
 * Reflect on your work in a written report
 
 
-[//]: # (Image References)
-
-[image1]: ./examples/grayscale.jpg "Grayscale"
-
 ---
 
 ### Reflection
@@ -52,11 +48,11 @@ The `find_lines()` function basically follow the suggestion given by the instruc
 
 The following images show the pipeline in action:
 
-![Canny edge detection showing only the region of interest][test_images_output/01_CannyDetection.png]
+![Canny edge detection showing only the region of interest](/test_images_output/01_CannyDetection.png)
 
-![Hough lines (red) and least squares line (green)][test_images_output/02_HoughLinesAndInferredLaneMarks.png]
+![Hough lines (red) and least squares line (green)](/test_images_output/02_HoughLinesAndInferredLaneMarks.png)
 
-![Hough lines (green) and least squares lines (red) superimposed to the original image][test_images_output/03_HoughLinesAndInferredLaneMarksOnImage.png]
+![Hough lines (green) and least squares lines (red) superimposed to the original image](/test_images_output/03_HoughLinesAndInferredLaneMarksOnImage.png)
 
 Note that a ruler was also drawn on the top of the last image.
 
